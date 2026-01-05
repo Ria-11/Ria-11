@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ria Patel</h1>
-<h3 align="center">Aspiring Software Engineer | Data Science & ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Riya Patel</h1>
+<h3 align="center">Aspiring Software Engineer | Web Development | AI & ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+love+building+real-world+projects;Learning+DSA+%26+Machine+Learning;Open+Source+%7C+Hackathons+%7C+Internships" />
